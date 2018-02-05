@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=observable
+comment0.target=StatisticsDisplay(java.util.Observable)
+comment1.params=observable\ arg
+comment1.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment2.params=
+comment2.target=void\ display()
+numComments=3

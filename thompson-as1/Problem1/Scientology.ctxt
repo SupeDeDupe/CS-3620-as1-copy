@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=room
+comment0.target=Scientology(Room)
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+comment2.params=
+comment2.target=double\ cost()
+comment3.params=
+comment3.target=double\ tax()
+numComments=4

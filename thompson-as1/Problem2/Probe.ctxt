@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=inp
+comment0.target=Probe(Gate)
+comment1.params=
+comment1.target=void\ show()
+comment2.params=
+comment2.target=void\ update()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=t\ rh\ pressure
+comment0.target=void\ update(float,\ float,\ float)
+comment1.params=t\ rh
+comment1.target=float\ computeHeatIndex(float,\ float)
+comment2.params=
+comment2.target=void\ display()
+numComments=3

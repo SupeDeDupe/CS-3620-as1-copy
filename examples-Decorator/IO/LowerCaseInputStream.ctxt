@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=in
+comment0.target=LowerCaseInputStream(java.io.InputStream)
+comment1.params=
+comment1.target=int\ read()
+comment2.params=b\ offset\ len
+comment2.target=int\ read(byte[],\ int,\ int)
+numComments=3

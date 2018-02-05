@@ -1,0 +1,4 @@
+This is a TEST FILE for our LowerCaseInputStream
+filter showing the Decorator Pattern. If everything
+works out as planned, the output should all be 
+in LOWERCASE.  
